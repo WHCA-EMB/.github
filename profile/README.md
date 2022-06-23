@@ -1,12 +1,7 @@
-## Hi there 👋
+The Enterprise Messaging Branch operates, maintains, and protects the IT hardware and software of all messaging, exchange, iPhone, and Macintosh infrastructures. Their mission is to support the President and Vice-President, the National Security Council, USSS, WHMO, and other government agencies, as directed.
 
-<!--
+More Info:
 
-**Here are some ideas to get you started:**
+https://en.wikipedia.org/wiki/White_House_Communications_Agency
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+https://enc.sites.whca.mil/isd (Internal)
