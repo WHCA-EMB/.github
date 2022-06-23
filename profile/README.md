@@ -3,5 +3,3 @@ The Enterprise Messaging Branch operates, maintains, and protects the IT hardwar
 More Info:
 
 https://en.wikipedia.org/wiki/White_House_Communications_Agency
-
-https://enc.sites.whca.mil/isd (Internal)
